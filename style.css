@@ -12,6 +12,13 @@
     align-items: center;
     justify-content: space-evenly;
 }
+.nav-address:hover{
+    border: 2px solid white;
+    background-color: yellow;
+}
+.nav-address:hover{
+     background-color: rebeccapurple;
+}
 .nav-logo {
     height:50px;
     width: 100px;
@@ -25,7 +32,7 @@
 .border {
     border: 2px solid transparent;
 }
-.border :hover{
+.border:hover{
     border: 2px solid white;
 }
 
@@ -82,7 +89,7 @@
 
 }
 
-.nav-search:hover {
+.nav-search:hover{
     border: 2px solid orange;
 }
 
